@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<root xmlns="http://example.com/ns1">
+  <items>
+    <item>a</item>
+    <item>b</item>
+  </items>
+</root>
